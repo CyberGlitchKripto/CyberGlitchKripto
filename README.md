@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RATHI GHOSH
 - 👀 I’m interested in INNOVATION
-- 🌱 I’m currently learning C++,JAVA
+- 🌱 I’m currently learning C++,JAVA,FSD
 - 💞️ I’m looking to collaborate on TEAM PROJECTS
 - 📫 COR CONTACT cserathighosh@gmail.com use this
 - 😄 Pronouns: he/him
